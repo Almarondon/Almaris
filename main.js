@@ -32,7 +32,6 @@ function simulator() {
             }
     
             else if (answerQuestion !== undefined) {
-        
                 if (answerQuestion === false) {
                     requireContact = true;
                 }
